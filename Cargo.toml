@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+   "adder",
+   "add-one",
+   "add-two",
+   "add-three",
+]
+
+
+
